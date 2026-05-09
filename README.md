@@ -3,7 +3,7 @@ End-to-end churn prediction project including data analysis, feature engineering
 
 ## Dataset
 
-This project uses a Customer Churn dataset.
+This project uses a Customer Churn dataset From Kaggel.
 
 Due to file size limitations, the dataset is not stored in this repository.
 
@@ -25,9 +25,5 @@ You can download it from:
 - Churn
   
 - ### Data Size:
-- Rows: 64375
-- Columns: 12
-
-### Data Size:
 - Rows: 64375
 - Columns: 12
