@@ -1,0 +1,26 @@
+- Dataset
+This project uses a Customer Churn dataset.
+
+Due to file size limitations, the dataset is not stored in this repository.
+
+You can download it from : [Dowonload dataset] (https://docs.google.com/document/d/1pDHyDiZGKyE44lnzLNtlJUcQ07RvnnbMHM-8Dpl4fZg/edit?usp=sharing) 
+
+- Key Features:
+
+CustomerID
+Age
+Gender
+Tenure
+Usage Frequency
+Support Calls
+Payment Delay
+Subscription Type
+Contract Length
+Total Spend
+Last Interaction
+Churn
+
+- Data Size:
+Rows: 64375
+Columns: 12
+
